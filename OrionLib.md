@@ -1,8 +1,6 @@
-# CREDITS!
+# Credits
 this documentation is made by:
 [shlex](https://github.com/shlexware),
-[Darkkcontrol](https://github.com/darkkcontrol)
-
 
 # Orion Library
 This documentation is for the stable release of Orion Library.
